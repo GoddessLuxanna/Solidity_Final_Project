@@ -1,4 +1,4 @@
-# Hello World
+# Project: Create a Token
 
 A contract that mints and burns tokens and checks the current value of the balance of the account (address).
 
