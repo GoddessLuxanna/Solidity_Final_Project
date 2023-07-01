@@ -13,11 +13,11 @@ There is also a condition within the program that prevents the users to burn mor
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
-
-contract MyToken {
-
+    // SPDX-License-Identifier: MIT
+    pragma solidity 0.8.18;
+    
+    contract MyToken {
+    
     // public variables here
     string public tokenName = "CaelestisMyojo"; // change variable name
     string public tokenAbbrv = "GDDSS"; //change variable name
@@ -45,7 +45,7 @@ contract MyToken {
 
 ## Authors
 
-Torayno, Joshua C. also known as Goddess Luxanna
+Torayno, Joshua C. also known as Goddess Luxanna and Caelestis Myōjō
 
 
 ## License
